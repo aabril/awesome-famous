@@ -36,26 +36,22 @@ all links collected,
 
 ToDo: organise them in the proper sections
 
-pem-musing.blogspot.fr/2014/04/famous-with-gulpjs-and-browerify-in.html
-www.airpair.com/ionic-framework/posts/hybrid-apps-ionic-famous-f7-onse
-github.com/fouad/famous-angular-cordova-seed
-github.com/thomasstreet/famous-angular-starter
-github.com/thomasstreet/famous-angular-examples
-github.com/thaiat/generator-angular-famous-ionic
-github.com/Famous/famous-angular
-github.com/fouad/famous-angular-cordova-seed
-github.com/aintnorest/famous-cordova-seed
-github.com/IjzerenHein/famous-flex
-
-https://github.com/FamousTools/generator-famous
-https://github.com/DrClick/FamousBird
-https://github.com/IjzerenHein/famous-flex
-
-https://github.com/lostfictions/famous-slideshow-es6
-
-https://github.com/Famous/requirejs-seed
-http://famous.hinablue.me/SlideShow
-
-https://github.com/IjzerenHein/famous-flex
-https://github.com/Skelware/Famous-Material-Examples
-http://codepen.io/befamous/pen/EflBC
+* http://pem-musing.blogspot.fr/2014/04/famous-with-gulpjs-and-browerify-in.html
+* http://www.airpair.com/ionic-framework/posts/hybrid-apps-ionic-famous-f7-onse
+* http://github.com/fouad/famous-angular-cordova-seed
+* http://github.com/thomasstreet/famous-angular-starter
+* http://github.com/thomasstreet/famous-angular-examples
+* http://github.com/thaiat/generator-angular-famous-ionic
+* http://github.com/Famous/famous-angular
+* http://github.com/fouad/famous-angular-cordova-seed
+* https://github.com/aintnorest/famous-cordova-seed
+* https://github.com/IjzerenHein/famous-flex
+* https://github.com/FamousTools/generator-famous
+* https://github.com/DrClick/FamousBird
+* https://github.com/IjzerenHein/famous-flex
+* https://github.com/lostfictions/famous-slideshow-es6
+* https://github.com/Famous/requirejs-seed
+* http://famous.hinablue.me/SlideShow
+* https://github.com/IjzerenHein/famous-flex
+* https://github.com/Skelware/Famous-Material-Examples
+* http://codepen.io/befamous/pen/EflBC
