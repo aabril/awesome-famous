@@ -1,3 +1,6 @@
+
+_Disclaimer: This is a *Work in Progress*, just a few commits more to be 'stable'_
+
 ## Awesome Famous
 
 A collection of awesome [Famous](http://famo.us) tools, resources, videos and shiny things.
