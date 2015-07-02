@@ -18,46 +18,69 @@ A collection of awesome [Famous](http://famo.us) tools, resources, videos and sh
 ---
 ### Official
 
-#### Main
-* [Website](http://famo.us)
-* [Famo.us University](http://famo.us/university)
-* [Guides](http://famo.us/guides)
-* [API Documentation](http://famo.us/docs/api/)
-* [Reference Documentation](http://famo.us/docs/reference)
+#### Main Site
+* [Website](http://famous.org/)
+* [Get Started](http://famous.org/get-started.html)
+* [Learn](http://famous.org/learn/)
+* [API Documentation](http://famous.org/docs/)
+* [GitHub](https://github.com/Famous)
+* [Support](http://famous.org/support/)
+* [Blog](https://blog.famous.org/)
+
+##### Main Repositories
+* [Engine](https://github.com/Famous/Engine)
+* [Framework](https://github.com/Famous/Framework)
+
+#### Boilerplates / Seeds
+* [Engine-Seed](https://github.com/Famous/engine-Seed)
+
+#### Guide Repositories
+* [Engine Guides](https://github.com/Famous/engine-guides)
+* [Framework Guides](https://github.com/Famous/framework-guides)
+
+#### Lessons Repositories
+* [Famous Twitterus Example](https://github.com/Famous/lesson-twitterus-starter-kit)
+* [Carousel Lesson Starter Kit](https://github.com/Famous/lesson-carousel-starter-kit)
+
 
 #### Famous Angular
 * [Famo.us/Angular](https://famo.us/integrations/angular/#/intro)
-* [Famo.us/Angular Documenttion](http://famo.us/integrations/angular/docs/api/)
+* [Famo.us/Angular Documentation](http://famo.us/integrations/angular/docs/api/)
+* [Famo.us/Angular GitHub Repository](https://github.com/Famous/famous-angular)
 
 #### Videos
+* [Famous Official Channel](https://www.youtube.com/channel/UCiFhuK7AExmfhl8iUzw2g4w)
 * [Famo.us Demo Days](https://www.youtube.com/playlist?list=PL0bvP7Hupz0S1qXnPVn-Yhr24JK5lVvJQ)
 * [Built with Famo.us](https://www.youtube.com/playlist?list=PL0bvP7Hupz0TciKtnl2uC3gAm2IrJy9Vw)
+* [Famous Framework - Getting Started](https://www.youtube.com/watch?v=hZsrHVzx4as)
 
----
-### Resources
+
+### Community
+
+#### Resources
 * https://github.com/Famous/requirejs-seed
 * http://github.com/Famous/famous-angular
 * https://github.com/IjzerenHein/famous-flex
 * http://github.com/fouad/famous-angular-cordova-seed
 
 ---
-### Tools
+#### Tools
 * http://github.com/thaiat/generator-angular-famous-ionic
 * https://github.com/FamousTools/generator-famous
 
 ---
-### Videos
+#### Videos
 
 ---
-### Demos
+#### Demos
 * https://github.com/DrClick/FamousBird
 
 ---
-### Tutorials
+#### Tutorials
 * http://pem-musing.blogspot.fr/2014/04/famous-with-gulpjs-and-browerify-in.html
 
 ---
-### Examples
+#### Examples
 * http://github.com/thomasstreet/famous-angular-starter
 * http://github.com/thomasstreet/famous-angular-examples
 * https://github.com/Skelware/Famous-Material-Examples
@@ -65,13 +88,16 @@ A collection of awesome [Famous](http://famo.us) tools, resources, videos and sh
 * http://famous.hinablue.me/SlideShow
 
 ---
-### Contributions
+#### Contributions
 * https://github.com/lostfictions/famous-slideshow-es6
 
-### Projects
+#### Projects
 * http://frame.io/
 
 Your contributions and suggestions are heartily♡ welcome.
 
 
-===
+---
+
+### Snippets ( JSBin / Codepen / ... )
+* (add here yours)
